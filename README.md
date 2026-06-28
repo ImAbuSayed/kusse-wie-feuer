@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kusse-wie-feuer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Küsse wie Feuer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kusse-wie-feuer/) |
+| **Get License** | [Obtain a Music License for Küsse wie Feuer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kusse-wie-feuer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rotes Licht im Benz, Küsse heiß wie Feuer
+> Die City schläft nie, du bist mein Abenteuer
+> Wir cruisen durch die Nacht, der Bass schlägt so laut
+> Ich bin süchtig nach dir, hast mir den Atem geraubt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
